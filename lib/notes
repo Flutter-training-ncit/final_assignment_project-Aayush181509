@@ -1,0 +1,18 @@
+1 splash
+2 login page
+3 Swipable page view
+4 navigation
+5 details screen
+
+
+bloc
+    login bloc
+    videos bloc
+model 
+nav 
+ui
+    screen
+    widget
+utils
+
+    
