@@ -14,5 +14,4 @@ ui
     screen
     widget
 utils
-
-    
+ClipRRect for giving image border radius
